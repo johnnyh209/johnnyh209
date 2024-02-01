@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Johnny 👋
 
+I love building computers; it's Legos for adults! I want to bring that passion about computers (and tech in general) into my career, and thus I am in the midst of making a career transition into IT after being CompTIA A+ certified. This Github page will be a documentation of my self-learning journey to gain experience in IT.
+
+- 🌱 I’m currently learning (PowerShell)[https://learn.microsoft.com/en-us/powershell/]
 <!--
 **johnnyh209/johnnyh209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
