@@ -1,6 +1,6 @@
 ### Hi there, I'm Johnny 👋
 
-I love building computers; it's Legos for adults! I want to bring that passion about computers (and tech in general) into my career, and thus I am in the midst of making a career transition into IT after being CompTIA A+ certified. This Github page will be a documentation of my self-learning journey to gain experience in IT.
+I love building computers; it's Legos for adults! I want to bring that passion about computers (and tech in general) into my career, and thus I am in the midst of making a career transition into IT after being CompTIA A+ certified. This may be quite unorthodoxed, but this Github page will serve as a documentation of my own projects to gain experience in IT.
 
 - 🌱 I’m currently learning (PowerShell)[https://learn.microsoft.com/en-us/powershell/]
 <!--
